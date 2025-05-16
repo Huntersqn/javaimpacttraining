@@ -1,14 +1,12 @@
-Jaffer wanted to excel in Math. He was learning about the Kaprekar number from Meena, his Maths teacher. She gave him a few random numbers and asked him to find out whether they are Kaprekar number or not.
+//Jaffer wanted to excel in Math. He was learning about the Kaprekar number from Meena, his Maths teacher. She gave him a few random numbers and asked him to find out whether they are Kaprekar number or not.
+//(Consider an n-digit number k. Square it and add the right n digits to the left n or n-1 digits. If the resultant sum is k, then k is called a Kaprekar number. For example, 9 is a Kaprekar number since 9^2 = 81 & 8 + 1 = 9, similarly, 297 is a Kaprekar number as 297^2 = 88209 & 88 + 209 = 297 ).
 
-(Consider an n-digit number k. Square it and add the right n digits to the left n or n-1 digits. If the resultant sum is k, then k is called a Kaprekar number. For example, 9 is a Kaprekar number since 9^2 = 81 & 8 + 1 = 9, similarly, 297 is a Kaprekar number as 297^2 = 88209 & 88 + 209 = 297 ).
+//Can you help Jaffer to write a program to find whether the given number is a Kaprekar number or not?
+//Input Format
 
-Can you help Jaffer to write a program to find whether the given number is a Kaprekar number or not?
-Input Format
-
-Input consists of a single integer.
+//Input consists of a single integer.
 
 import java.util.Scanner;
-
 public class KaprekarNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
