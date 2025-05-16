@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class SumTwoDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
