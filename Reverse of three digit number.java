@@ -1,7 +1,6 @@
-reverse of three digit number 
+//Reverse of three digit number 
 
 import java.util.Scanner;
-
 public class ReverseThreeDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
