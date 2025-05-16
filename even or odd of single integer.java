@@ -1,4 +1,4 @@
-even or odd of single integer
+//Even or odd of single integer
 
 import java.util.Scanner;
 
