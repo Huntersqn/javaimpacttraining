@@ -1,7 +1,7 @@
-n is odd print weird and n is even and inclusive range 2 to 5 print not weird and n is even the inclusive range 6 to 20 print weird and grater than 20 print not weird 
+//n is odd print weird and n is even and inclusive range 2 to 5 print not weird and
+//n is even the inclusive range 6 to 20 print weird and grater than 20 print not weird 
 
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -26,6 +26,3 @@ public class Main {
 output:
 input 3
 weird
-
-
-output:
