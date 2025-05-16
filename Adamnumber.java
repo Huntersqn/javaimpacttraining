@@ -1,7 +1,6 @@
-find whether the number is adam or not the sqaure of the given number is eqaul to the reverse of the sqaure in java
+//find whether the number is adam or not the sqaure of the given number is eqaul to the reverse of the sqaure in java
 
 import java.util.Scanner;
-
 public class AdamNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
